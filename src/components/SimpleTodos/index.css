@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.todo-container {
+  background-color: #ffffff;
+  height: 80vh;
+  width: 50vw;
+}
+.heading {
+  color: #ff8542;
+}
